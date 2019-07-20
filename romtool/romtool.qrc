@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/romtool">
+    <file>folder_a.png</file>
+    <file>stop.png</file>
+    <file>stop_a.png</file>
+    <file>extract_a.png</file>
+    <file>extract.png</file>
+    <file>folder.png</file>
+    <file>default.png</file>
+  </qresource>
+</RCC>
